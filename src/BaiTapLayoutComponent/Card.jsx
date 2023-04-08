@@ -1,7 +1,5 @@
 import React from 'react'
 
-import Styles from './style.css';
-
 function Card() {
   return (
     <section className="pt-4">

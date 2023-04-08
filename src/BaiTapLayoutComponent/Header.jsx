@@ -1,7 +1,5 @@
 import React from 'react'
 
-import Styles from './style.css';
-
 function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
